@@ -1,0 +1,2 @@
+To train GMM on 'c' Gaussian components run './train.sh c'
+Once trained, plot graphs by running 'python GMM_plot.py c'

@@ -1,0 +1,3 @@
+To train logisitic regression, run "python log_reg_vectorized.py <class_no>" where <class_no> is the class that will be separated from the rest (one vs all). 
+Perform step 1 for <class_no> = (0,1,2,3,4,5)
+Run "python measure_accuracy.py"
